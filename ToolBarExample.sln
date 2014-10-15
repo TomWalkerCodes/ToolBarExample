@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolBarExample", "ToolBarExample\ToolBarExample.csproj", "{08FF52DC-AF1C-4429-9B5E-B3AE8E857C36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolBarExample.Android", "Android\ToolBarExample.Android.csproj", "{FE9027AB-C28D-43DF-AC6B-68ADDDDCDCBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08FF52DC-AF1C-4429-9B5E-B3AE8E857C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08FF52DC-AF1C-4429-9B5E-B3AE8E857C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08FF52DC-AF1C-4429-9B5E-B3AE8E857C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08FF52DC-AF1C-4429-9B5E-B3AE8E857C36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE9027AB-C28D-43DF-AC6B-68ADDDDCDCBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9027AB-C28D-43DF-AC6B-68ADDDDCDCBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9027AB-C28D-43DF-AC6B-68ADDDDCDCBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9027AB-C28D-43DF-AC6B-68ADDDDCDCBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Android\ToolBarExample.Android.csproj
+	EndGlobalSection
+EndGlobal

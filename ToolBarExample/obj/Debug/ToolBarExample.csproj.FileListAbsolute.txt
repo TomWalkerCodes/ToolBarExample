@@ -1,0 +1,10 @@
+E:\Spike\ToolBarExample\ToolBarExample\bin\Debug\ToolBarExample.dll
+E:\Spike\ToolBarExample\ToolBarExample\bin\Debug\ToolBarExample.pdb
+E:\Spike\ToolBarExample\ToolBarExample\bin\Debug\Xamarin.Forms.Core.dll
+E:\Spike\ToolBarExample\ToolBarExample\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Spike\ToolBarExample\ToolBarExample\bin\Debug\Xamarin.Forms.Core.xml
+E:\Spike\ToolBarExample\ToolBarExample\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Spike\ToolBarExample\ToolBarExample\obj\Debug\MainPage.xaml.g.cs
+E:\Spike\ToolBarExample\ToolBarExample\obj\Debug\MyPage.xaml.g.cs
+E:\Spike\ToolBarExample\ToolBarExample\obj\Debug\ToolBarExample.dll
+E:\Spike\ToolBarExample\ToolBarExample\obj\Debug\ToolBarExample.pdb

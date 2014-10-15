@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToolBarExample\MyPage.xaml.cs">
+    <Files>
+      <File FileName="ToolBarExample\App.cs" Line="3" Column="3" />
+      <File FileName="ToolBarExample\MainPage.xaml" Line="38" Column="38" />
+      <File FileName="ToolBarExample\MainPage.xaml.cs" Line="28" Column="28" />
+      <File FileName="ToolBarExample\MyPage.xaml" Line="1" Column="1" />
+      <File FileName="ToolBarExample\MyPage.xaml.cs" Line="31" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
